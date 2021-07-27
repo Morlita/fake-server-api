@@ -1,8 +1,7 @@
 // 20210727155146
 // https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
 
-{
-  "drinks": [
+[
     {
       "idDrink": "11007",
       "strDrink": "Margarita",
@@ -322,4 +321,4 @@
       "dateModified": null
     }
   ]
-}
+
